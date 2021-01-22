@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: GITExample
+  description: example.com
+  annotations:
+    github.com/project-slug: freshdesk/helpkit
+spec:
+  type: website
+  lifecycle: production
+  owner: guest
