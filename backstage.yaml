@@ -6,6 +6,6 @@ metadata:
   annotations:
     github.com/project-slug: freshdesk/helpkit
 spec:
-  type: website
+  type: service
   lifecycle: production
   owner: guest
